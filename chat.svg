@@ -248,10 +248,10 @@
 
   </g>
 
-  <!-- Hi, I'm Jason -->
+  <!-- Hi, I'm Artem -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jason</text>
+    <text x="15" y="27">Hi, I'm Artem</text>
   </g>
 
   <!-- typing 2 -->
@@ -272,11 +272,11 @@
 
   </g>
 
-  <!-- From Columbus... -->
+  <!-- From Istanbul... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
-    <text x="15" y="50">59° F (15° C) and <tspan class="emoji">☀️</tspan> today.</text>
+    <text x="15" y="27">Currently I live in Istanbul where it’s supposed to be</text>
+    <text x="15" y="50">15° C and <tspan class="emoji">☀️</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -299,9 +299,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
-    <text x="15" y="50">but I’ve been at PlanetScale for almost 2 years now.</text>
+    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I’m a team lead/project manager.</text>
+    <text x="15" y="50">Certified KMP, PSPO I, ICP/ICP-ATF, Microsoft specialist.</text>
   </g>
 
   <!-- typing 4 -->
@@ -322,12 +322,11 @@
 
   </g>
 
-  <!-- Twitter -->
+  <!-- LinkedIn -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+      You can find me on <a xlink:href="https://www.linkedin.com/in/akulikov/">LinkedIn</a>
     </text>
   </g>
 
@@ -352,7 +351,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
+    <text x="15" y="27">Thanks for stopping by.</text>
   </g>
 
   <!-- typing 6 -->
