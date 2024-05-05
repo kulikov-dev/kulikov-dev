@@ -298,7 +298,7 @@
   <!-- From Istanbul... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently I live in Istanbul where it’s supposed to be</text>
+    <text x="15" y="27">Currently I live in Setubal where it’s supposed to be</text>
     <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
